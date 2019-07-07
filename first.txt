@@ -1,8 +1,0 @@
-Practicing git
-C
-C
-sty
-git rem
-gut status
-
-first.diff 
